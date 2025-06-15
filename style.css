@@ -15,9 +15,9 @@ body {
 header {
   background: linear-gradient(135deg, #111, #444);
   color: white;
-  position: relative;
   overflow: hidden;
 }
+
 
 nav {
   display: flex;
